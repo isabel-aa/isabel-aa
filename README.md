@@ -1,7 +1,7 @@
 ## Olá eu sou a Isabel 
 
 - 🔭 Hoje trabalho com Desenvolvimento 🧩
-- 🌱 Atualmente estou aprendendo Segurança da Informação e Python 🎩
+- 🌱 Atualmente estou aprendendo Python 🎩
 
 <div align="center">
   <a href="https://github.com/isabel-aa">
